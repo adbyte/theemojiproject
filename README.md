@@ -28,6 +28,6 @@ The Emoj.I. Project is a fun, educational web app featuring **Emoj.I.**, a frien
 | **Mood Sorter** | ![Mood Sorter](the_mood_sorter.png) |
 | **Power-Up Meter** | ![Power-Up Meter](the_power_up.png) |
 | **Review Resolver** | ![Review Resolver](review_resolver.png) |
-| **Certificate Screen** | ![Certificate](certificate_png) |
+| **Certificate Screen** | ![Certificate](certificate.png) |
 
 
