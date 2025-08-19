@@ -24,10 +24,10 @@ The Emoj.I. Project is a fun, educational web app featuring **Emoj.I.**, a frien
 
 | Module | Screenshot |
 |--------|-------------|
-| **Home Screen** | ![Home Screen](screenshots/home.png) |
-| **Mood Sorter** | ![Mood Sorter](screenshots/mood-sorter.png) |
-| **Power-Up Meter** | ![Power-Up Meter](screenshots/power-meter.png) |
-| **Review Resolver** | ![Review Resolver](screenshots/review-resolver.png) |
-| **Certificate Screen** | ![Certificate](screenshots/certificate.png) |
+| **Home Screen** | ![Home Screen](home.png) |
+| **Mood Sorter** | ![Mood Sorter](the_mood_sorter.png) |
+| **Power-Up Meter** | ![Power-Up Meter](the_power_up.png) |
+| **Review Resolver** | ![Review Resolver](review_resolver.png) |
+| **Certificate Screen** | ![Certificate](certificate_png) |
 
 
