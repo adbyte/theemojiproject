@@ -1,6 +1,6 @@
 # 🤖 The Emoj.I. Project  
 
-**An interactive sentiment analysis adventure game for 6th graders!**  
+**An interactive sentiment analysis adventure game for educational purposes!**  
 
 The Emoj.I. Project is a fun, educational web app featuring **Emoj.I.**, a friendly robot guide who needs help understanding human emotions. Through interactive challenges, students learn about **sentiment analysis** in an engaging, gamified environment.  
 
